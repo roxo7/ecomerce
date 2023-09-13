@@ -1,0 +1,245 @@
+  
+  
+  [
+  {
+    "id":1,
+    "color": "black",
+    "hat":true,
+    "watch":true,
+    "groomed":true,
+    "price":250,
+    "longhair":false,
+    "glasses":false,
+    "headphone":false,
+    "brand":"roadster",
+    "img":["./productsImages/11product.png","./productsImages/12product.png","./productsImages/13product.png","./productsImages/14product.png"],
+    "size":["L","M","S","XL"],
+    "coments":[
+      {
+        "reviewdBy":"Dingi Mon",
+        "review":"modal to be changed"
+      },
+      {
+        "reviewdBy":"mocha",
+        "review":"modal is looking good"
+      },
+      {
+        "reviewdBy":"Dingi Mon",
+        "review":"modal to be changed"
+      },
+      {
+        "reviewdBy":"mocha",
+        "review":"modal is looking good"
+      },
+      {
+        "reviewdBy":"Dingi Mon",
+        "review":"modal to be changed"
+      },
+      {
+        "reviewdBy":"mocha",
+        "review":"modal is looking good"
+      },
+      {
+        "reviewdBy":"Dingi Mon",
+        "review":"modal to be changed"
+      },
+      {
+        "reviewdBy":"mocha",
+        "review":"modal is looking good"
+      }
+    ]
+},
+  {
+    "id":2,
+    "color": "gray",
+    "hat":false,
+    "watch":true,
+    "groomed":false,
+    "price":450,
+    "longhair":false,
+    "glasses":true,
+    "headphone":false,
+    "brand": "moda",
+    "img":["./productsImages/21product.png","./productsImages/22product.png","./productsImages/23product.png","./productsImages/24product.png"],
+    "size":["L","M","S","XL"],
+    "coments":[
+      {
+        "reviewdBy":"manja",
+        "review":"best suits for my look"
+      },
+      {
+        "reviewdBy":"manji",
+        "review":"ohh shirt looks good only for mails"
+      }
+    ]
+},
+  {
+    "id":3,
+    "color":"steelblue",
+    "hat":false,
+    "watch":false,
+    "groomed":false,
+    "price":600,
+    "longhair":false,
+    "glasses":false,
+    "headphone":true,
+    "brand": "london hills",
+    "img":["./productsImages/31product.png","./productsImages/32product.png","./productsImages/33product.png","./productsImages/34product.png"],
+    "size":["L","M","S","XL"],
+    "coments":[
+      {
+        "reviewdBy":"diwakar",
+        "review":"i got the 2 pair again"
+      },
+      {
+        "reviewdBy":"vinayak",
+        "review":"i gifted to my friend diwakar "
+      }
+    ]
+},
+  {
+    "id":4,
+    "color": "orange",
+    "hat":false,
+    "watch":true,
+    "groomed":true,
+    "price":300,
+    "longhair":false,
+    "glasses":true,
+    "headphone":false,
+    "brand": "london hills",
+    "img":["./productsImages/41product.png","./productsImages/42product.png","./productsImages/43product.png","./productsImages/44product.png"],
+    "size":["L","M","S","XL"],
+    "coments":[
+      {
+        "reviewdBy":"sony",
+        "review":"best suited for my boyfriend"
+      },
+      {
+        "reviewdBy":"suman",
+        "review":"good fiting"
+      }
+    ]
+},
+  {
+    "id":5,
+    "color": "lightcoral",
+    "hat":false,
+    "watch":false,
+    "groomed":true,
+    "price":1500,
+    "longhair":false,
+    "glasses":false,
+    "headphone":false,
+    "brand": "louis philipe",
+    "img":["./productsImages/51product.png","./productsImages/52product.png","./productsImages/53product.png","./productsImages/54product.png"],
+    "size":["L","M","S","XL"],
+    "coments":[
+      {
+        "reviewdBy":"nokia",
+        "review":"my employes are good on it"
+      },
+      {
+        "reviewdBy":"sergey brin",
+        "review":"i feel like coding when i wear this shirt"
+      }
+    ]
+},
+  {
+    "id":6,
+    "color": "black",
+    "hat":true,
+    "watch":false,
+    "groomed":true,
+    "price":650,
+    "longhair":false,
+    "glasses":false,
+    "headphone":false,
+    "brand": "hrx",
+    "img":["./productsImages/61product.png","./productsImages/62product.png","./productsImages/63product.png","./productsImages/64product.png"],
+    "size":["L","M","S","XL"],
+    "coments":[
+      {
+        "reviewdBy":"sravani",
+        "review":"I gifted to shanmuka and he didnt liked it"
+      },
+      {
+        "reviewdBy":"shanmuka",
+        "review":"my girlfriend gave it to me and i lied to her"
+      }
+    ]
+},
+  {
+    "id":7,
+    "color":"indianred",
+    "hat":true,
+    "watch":false,
+    "groomed":false,
+    "price":1600,
+    "longhair":false,
+    "glasses":false,
+    "headphone":false,
+    "brand": "puma",
+    "img":["./productsImages/71product.png","./productsImages/72product.png","./productsImages/73product.png","./productsImages/74product.png"],
+    "size":["L","M","S","XL"],
+    "coments":[
+      {
+        "reviewdBy":"anupam Mishra",
+        "review":"I wear it while playing football "
+      },
+      {
+        "reviewdBy":"anu",
+        "review":"i presented it to my boyfriend"
+      }
+    ]
+},
+  {
+    "id":8,
+    "color":"lightcoral",
+    "hat":false,
+    "watch":false,
+    "groomed":false,
+    "price":500,
+    "longhair":true,
+    "glasses":true,
+    "headphone":false,
+    "brand": "moda",
+    "img":["./productsImages/81product.png","./productsImages/82product.png","./productsImages/83product.png","./productsImages/84product.png"],
+    "size":["L","M","S","XL"],
+    "coments":[
+      {
+        "reviewdBy":"pinto",
+        "review":"pinto always looks good on it"
+      },
+      {
+        "reviewdBy":"chethan",
+        "review":"planing to by but no money"
+      }
+    ]
+},
+  {
+    "id":9,
+    "color":"lightcoral",
+    "hat":false,
+    "watch":false,
+    "groomed":false,
+    "price":100,
+    "longhair":true,
+    "glasses":true,
+    "headphone":false,
+    "brand": "moda",
+    "img":["./productsImages/81product.png","./productsImages/82product.png","./productsImages/83product.png","./productsImages/84product.png"],
+    "size":["L","M","S","XL"],
+    "coments":[
+      {
+        "reviewdBy":"pinto",
+        "review":"pinto always looks good on it"
+      },
+      {
+        "reviewdBy":"chethan",
+        "review":"planing to by but no money"
+      }
+    ]
+}
+
+]
